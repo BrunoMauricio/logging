@@ -73,7 +73,11 @@ Emergency:     System unusable and/or down
 
 
 ## Roadmap
-Maybe add colors?
+* Main priority
+* * Add configurable flushing strategies for the different log levels
+* * Add a way to disable resource consuming levels like debug
+* Secondary priority
+* * Maybe add colors?
 
 ## Contributing
 This is a proof of concept, and perhaps even useless, but I'm open to suggestions.
