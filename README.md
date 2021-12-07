@@ -15,8 +15,6 @@ The logging levels are based on the SNMP ones:
 
 Official SNMP meanings
 
-    Name            Description
-
 Debug:         Debug messages
 
 Informational: Informational messages
@@ -34,8 +32,6 @@ Alert:         Immediate action needed
 Emergency:     System unusable
 
 This projects' meanings
-
-    Name            Description
 
 Debug:         Messages regarding the state of the code. Should be disabled normally (elevated logging load)
 
